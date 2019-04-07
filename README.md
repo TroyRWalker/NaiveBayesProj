@@ -1,4 +1,4 @@
-# Networks Research - Naive Bayes
+# Networks Research - Naive Bayes implementation
 Sources:
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
 https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
