@@ -18,47 +18,49 @@ https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_
 
 
 Attributes found in the dataset (41 of them!)
+<br>
 duration: continuous.
-protocol_type: symbolic.
-service: symbolic.
-flag: symbolic.
-src_bytes: continuous.
-dst_bytes: continuous.
-land: symbolic.
-wrong_fragment: continuous.
-urgent: continuous.
-hot: continuous.
-num_failed_logins: continuous.
-logged_in: symbolic.
-num_compromised: continuous.
-root_shell: continuous.
-su_attempted: continuous.
-num_root: continuous.
-num_file_creations: continuous.
-num_shells: continuous.
-num_access_files: continuous.
-num_outbound_cmds: continuous.
-is_host_login: symbolic.
-is_guest_login: symbolic.
-count: continuous.
-srv_count: continuous.
-serror_rate: continuous.
-srv_serror_rate: continuous.
-rerror_rate: continuous.
-srv_rerror_rate: continuous.
-same_srv_rate: continuous.
-diff_srv_rate: continuous.
-srv_diff_host_rate: continuous.
-dst_host_count: continuous.
-dst_host_srv_count: continuous.
-dst_host_same_srv_rate: continuous.
-dst_host_diff_srv_rate: continuous.
-dst_host_same_src_port_rate: continuous.
-dst_host_srv_diff_host_rate: continuous.
-dst_host_serror_rate: continuous.
-dst_host_srv_serror_rate: continuous.
-dst_host_rerror_rate: continuous.
-dst_host_srv_rerror_rate: continuous.
+<br>
+protocol_type: symbolic.<br>
+service: symbolic.<br>
+flag: symbolic.<br>
+src_bytes: continuous.<br>
+dst_bytes: continuous.<br>
+land: symbolic.<br>
+wrong_fragment: continuous.<br>
+urgent: continuous.<br>
+hot: continuous.<br>
+num_failed_logins: continuous.<br>
+logged_in: symbolic.<br>
+num_compromised: continuous.<br>
+root_shell: continuous.<br>
+su_attempted: continuous.<br>
+num_root: continuous.<br>
+num_file_creations: continuous.<br>
+num_shells: continuous.<br>
+num_access_files: continuous.<br>
+num_outbound_cmds: continuous.<br>
+is_host_login: symbolic.<br>
+is_guest_login: symbolic.<br>
+count: continuous.<br>
+srv_count: continuous.<br>
+serror_rate: continuous.<br>
+srv_serror_rate: continuous.<br>
+rerror_rate: continuous.<br>
+srv_rerror_rate: continuous.<br>
+same_srv_rate: continuous.<br>
+diff_srv_rate: continuous.<br>
+srv_diff_host_rate: continuous.<br>
+dst_host_count: continuous.<br>
+dst_host_srv_count: continuous.<br>
+dst_host_same_srv_rate: continuous.<br>
+dst_host_diff_srv_rate: continuous.<br>
+dst_host_same_src_port_rate: continuous.<br>
+dst_host_srv_diff_host_rate: continuous.<br>
+dst_host_serror_rate: continuous.<br>
+dst_host_srv_serror_rate: continuous.<br>
+dst_host_rerror_rate: continuous.<br>
+dst_host_srv_rerror_rate: continuous.<br>
 
 
 In this Dataset there are 23 classes. Only one of those classes is a normal connection and the other 22 classes are different variations of malicious connections (attacks).
