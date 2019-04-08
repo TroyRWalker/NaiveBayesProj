@@ -1,12 +1,20 @@
 # Networks Research - Naive Bayes implementation
 Sources:
+<br>
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+<br>
 https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
+<br>
 https://hackernoon.com/implementation-of-gaussian-naive-bayes-in-python-from-scratch-c4ea64e3944d
+<br>
 https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn
+<br>
 https://github.com/chadlimedamine/kdd-cup-99-Analysis-machine-learning-python/blob/master/kdd_binary_classification_naive_bayes.py
+<br>
 https://github.com/jadianes/kdd-cup-99-spark
+<br>
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+<br>
 
 
 Attributes found in the dataset (41 of them!)
