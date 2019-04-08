@@ -63,6 +63,6 @@ dst_host_rerror_rate: continuous.<br>
 dst_host_srv_rerror_rate: continuous.<br>
 
 
-In this Dataset there are 23 classes. Only one of those classes is a normal connection and the other 22 classes are different variations of malicious connections (attacks).
-The names of classes are enumirated below :
+In this Dataset there are 23 classes. Only one of those classes is a normal connection and the other 22 classes are different variations of malicious connections (attacks).<br>
+The names of classes are enumirated below :<br>
 1- normal 2- back 3- buffer_overflow 4- ftp_write 5- guess_passwd 6- imap 7- ipsweep 8- land 9- loadmodule 10- multihop 11- Neptune 12- nmap 13- perl 14- phf 15- pod 16- portsweep 17- rootkit 18- Satan 19- smurf 20- spy 21- teardrop 22- warezclient 23- warezmaster
